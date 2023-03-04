@@ -3,7 +3,7 @@ import sys
 import shutil
 import os
 
-path = Path(sys.argv[1]) #'C:/Le Croissant/Projects/A messy folder'
+path = Path(sys.argv[1])
 
 
 CYRILLIC_SYMBOLS = "абвгдеёжзийклмнопрстуфхцчшщъыьэюяєіїґ"
